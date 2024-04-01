@@ -11,13 +11,13 @@ TI-84 Plus CE|5.6.0.0020|Emulated
 # Files
 #### TIDICE (TI-82)
 TIDICE program for the TI-82<br>
-[Download](https://github.com/MISTERPUG51/TIDICE/TIDICE.82p)
+[Download](TIDICE.82p)
 #### TIDICE (TI-83)
 TIDICE program for the TI-83<br>
-[Download](https://github.com/MISTERPUG51/TIDICE/TIDICE.83p)
+[Download](TIDICE.83p)
 #### TIDICE (TI-83+/TI-84+)
 TIDICE program for the TI-83+ and TI-84+<br>
-[Download](https://github.com/MISTERPUG51/TIDICE/TIDICE.8xp)
+[Download](TIDICE.8xp)
 #### TIDICE CE (TI-84+ CE)
 TIDICE program for the TI-84+ CE<br>
-[Download](https://github.com/MISTERPUG51/TIDICE/TIDICE_CE.8xp)
+[Download](TIDICE_CE.8xp)
