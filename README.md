@@ -21,3 +21,15 @@ TIDICE program for the TI-83+ and TI-84+<br>
 #### TIDICE CE (TI-84+ CE)
 TIDICE program for the TI-84+ CE<br>
 [Download](TIDICE_CE.8xp)
+# Screenshots
+![screenshot](screenshots/screenshot000.png)<br>
+Start Screen
+#
+![screenshot](screenshots/screenshot001.png)<br>
+Menu
+#
+![screenshot](screenshots/screenshot002.png)<br>
+Rolling one die
+#
+![screenshot](screenshots/screenshot003.png)<br>
+Rolling two dice
