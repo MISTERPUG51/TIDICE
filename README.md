@@ -5,6 +5,7 @@ TIDICE is a simple probability sim program written in TI-BASIC. This program all
 **Calculator**|**ROM/OS Version**|**Real/emulated**
 :-----:|:-----:|:-----:
 TI-82|19.0|Real
+TI-84|2.55MP|Emulated
 # Files
 #### TIDICE 82/83
 TIDICE program
