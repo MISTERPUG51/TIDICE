@@ -10,18 +10,18 @@ TI-83|1.02|Emulated
 TI-84 Plus|2.55MP|Emulated
 TI-84 Plus CE|5.6.0.0020|Emulated
 # Files
-### TIDICE (TI-82)
+### TIDICE V1.1 (TI-82)
 TIDICE program for the TI-82<br>
-[Download](TIDICE.82p)
-### TIDICE (TI-83)
+[Download](1.1/TIDICE11.82p)
+### TIDICE V1.1 (TI-83)
 TIDICE program for the TI-83<br>
-[Download](TIDICE.83p)
-### TIDICE (TI-83+/TI-84+)
+[Download](1.1/TIDICE11.83p)
+### TIDICE V1.1 (TI-83+/TI-84+)
 TIDICE program for the TI-83+ and TI-84+<br>
-[Download](TIDICE.8xp)
-### TIDICE CE (TI-84+ CE)
+[Download](1.1/TIDICE11.8xp)
+### TIDICE CE V1.1 (TI-84+ CE)
 TIDICE program for the TI-84+ CE<br>
-[Download](TIDICE_CE.8xp)
+[Download](1.1/TIDICE11_CE.8xp)
 # Screenshots
 ![screenshot](screenshots/screenshot000.png)<br>
 Start Screen
