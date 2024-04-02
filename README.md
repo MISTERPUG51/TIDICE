@@ -25,14 +25,14 @@ TIDICE program for the TI-84+ CE<br>
 # Files for V1.0 (Old version)
 [Browse V1.0 files](1.0)
 # Screenshots
-![screenshot](screenshots/screenshot000.png)<br>
+![screenshot](screenshot000.png)<br>
 Start Screen
 #
-![screenshot](screenshots/screenshot001.png)<br>
+![screenshot](screenshot001.png)<br>
 Menu
 #
-![screenshot](screenshots/screenshot002.png)<br>
+![screenshot](screenshot002.png)<br>
 Rolling one die
 #
-![screenshot](screenshots/screenshot003.png)<br>
+![screenshot](screenshot003.png)<br>
 Rolling two dice
