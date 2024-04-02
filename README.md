@@ -22,6 +22,8 @@ TIDICE program for the TI-83+ and TI-84+<br>
 ### TIDICE CE V1.1 (TI-84+ CE)
 TIDICE program for the TI-84+ CE<br>
 [Download](1.1/TIDICE11_CE.8xp)
+# Files for V1.0 (Old version)
+[Browse V1.0 files](1.0/)
 # Screenshots
 ![screenshot](screenshots/screenshot000.png)<br>
 Start Screen
