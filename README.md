@@ -9,8 +9,6 @@ TI-82|19.0|Emulated
 TI-83|1.02|Emulated
 TI-84 Plus|2.55MP|Emulated
 TI-84 Plus CE|5.6.0.0020|Emulated
-# Downloads
-[All releases](releases/tag/releases)
 # Screenshots
 ![screenshot](screenshots/screenshot000.jpg)<br>
 Start Screen
